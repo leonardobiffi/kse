@@ -12,6 +12,7 @@ builds:
     goos:
       - linux
       - darwin
+      - windows
     ignore:
       - goarch: "386"
     # Custom ldflags templates.
