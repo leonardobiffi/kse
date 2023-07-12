@@ -1,7 +1,7 @@
 # Kubernetes Secret Encoding
 
-![release](https://img.shields.io/github/v/release/leonardobiffi/kse)
-![workflow](https://img.shields.io/github/actions/workflow/status/leonardobiffi/kse/release.yml)
+[![release](https://img.shields.io/github/v/release/leonardobiffi/kse)](https://github.com/leonardobiffi/kse/releases/latest)
+[![workflow](https://img.shields.io/github/actions/workflow/status/leonardobiffi/kse/release.yml)](https://github.com/leonardobiffi/kse/actions/workflows/release.yml)
 
 CLI Tool that allow encode and decode Kubernetes Secrets
 
